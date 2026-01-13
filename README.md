@@ -104,3 +104,10 @@ AI tools may assist in drafting or analysis, but **authority, judgment, and resp
 > **Governance before execution.  
 > Judgment before automation.  
 > Humans as architects — not moderators.**
+
+---
+GOVERNANCE-SEALED — Millings Method™  
+Authorship Authority: Frederick Redditt  
+Governance precedes execution. No silent failure modes detected under adversarial review.  
+Federal Anchor Chain: 1979–2025
+---
